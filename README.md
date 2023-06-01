@@ -3,7 +3,12 @@
 ## 1章の主な内容
 ### 3命令の動作
 **SELECT**,**UPDATE**,**DELETE**
-[作成コード]()
+
+
+作成コード
+- [練習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr1/practise.sql)
+- [演習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr1/exercise.sql)
+
 |章1|コード|内容|
 |:--:|:--:|:--:|
 |1-1|selectとfrom|検索|
