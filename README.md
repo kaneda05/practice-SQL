@@ -6,7 +6,7 @@
 
 
 作成コード
-- [練習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr1/practise.sql)
+- [練習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr1/practice.sql)
 - [演習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr1/exercise.sql)
 
 |章1|コード|内容|
@@ -25,6 +25,6 @@
 データ型とリテラル
 
 作成コード
-- [練習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr2/practise.sql)
+- [練習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr2/practice.sql)
 - [演習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr2/exercise.sql)
 
