@@ -28,3 +28,14 @@
 - [練習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr2/practice.sql)
 - [演習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr2/exercise.sql)
 
+
+## 3章の主な内容
+### 操作する行の絞り込み
+
+<strong>WHERE</strong>の基本的な使い方と<strong>比較演算子</strong>
+
+作成コード
+- [練習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr3/practice.sql)
+- [演習コード1](https://github.com/kaneda05/practice-SQL/blob/main/chr3/exercise3-1.sql)
+- [演習コード2](https://github.com/kaneda05/practice-SQL/blob/main/chr3/exercise3-2.sql)
+- [演習コード3](https://github.com/kaneda05/practice-SQL/blob/main/chr3/exercise3-3.sql)
