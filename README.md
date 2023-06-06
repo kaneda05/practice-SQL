@@ -35,7 +35,7 @@
 <strong>WHERE</strong>の基本的な使い方と<strong>比較演算子</strong>
 
 作成コード
-- [練習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr3/practice.sql)
-- [演習コード1](https://github.com/kaneda05/practice-SQL/blob/main/chr3/exercise3-1.sql)
-- [演習コード2](https://github.com/kaneda05/practice-SQL/blob/main/chr3/exercise3-2.sql)
-- [演習コード3](https://github.com/kaneda05/practice-SQL/blob/main/chr3/exercise3-3.sql)
+- [練習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr3/practice3-1.sql)
+- [練習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr3/practice3-2.sql)
+- [練習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr3/practice3-3.sql)
+- [演習コード](https://github.com/kaneda05/practice-SQL/blob/main/chr3/exercise.sql)
