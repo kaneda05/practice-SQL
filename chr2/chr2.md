@@ -34,5 +34,5 @@
 作成コード
 - [問題3](https://github.com/kaneda05/practice-SQL/blob/main/chr2/practice3.sql)
 - [問題4](https://github.com/kaneda05/practice-SQL/blob/main/chr2/practice4.sql)
-- [問題5]](https://github.com/kaneda05/practice-SQL/blob/main/chr2/practice5.sql)
-- [問題6]](https://github.com/kaneda05/practice-SQL/blob/main/chr2/practice6.sql)
+- [問題5](https://github.com/kaneda05/practice-SQL/blob/main/chr2/practice5.sql)
+- [問題6](https://github.com/kaneda05/practice-SQL/blob/main/chr2/practice6.sql)

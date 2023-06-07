@@ -26,4 +26,4 @@
 作成コード
 - [問題1](https://github.com/kaneda05/practice-SQL/blob/main/chr1/practice1.sql)
 - [問題2](https://github.com/kaneda05/practice-SQL/blob/main/chr1/practice2.sql)
-- [問題3]](https://github.com/kaneda05/practice-SQL/blob/main/chr1/practice3.sql)
+- [問題3](https://github.com/kaneda05/practice-SQL/blob/main/chr1/practice3.sql)
