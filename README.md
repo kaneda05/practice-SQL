@@ -12,3 +12,7 @@
 |章|内容|詳細|
 |:--:|:--:|:--:|
 |5章|式と関数|[詳細](https://github.com/kaneda05/practice-SQL/blob/main/chr5/chr5.md)|
+
+## アルゴ式
+|[データベース入門(1)](https://github.com/kaneda05/algo/blob/main/2/database1.md)|[データベース入門(2)](https://github.com/kaneda05/algo/blob/main/2/database2.md)|
+|:--:|:--:|
